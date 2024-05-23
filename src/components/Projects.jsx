@@ -64,7 +64,7 @@ const Projects = () => {
                 Food Delivery App
               </span>
               <div className="pt-8 text-center">
-                <a href="https://myeats.vercel.app/" target="_blank">
+                <a href="https://my-eat-pi.vercel.app/" target="_blank">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
@@ -117,7 +117,7 @@ const Projects = () => {
                 Web Store App
               </span>
               <div className="pt-8 text-center">
-                <a href="https://zeusstore.vercel.app/" target="_blank">
+                <a href="https://fakestoreapi-tau.vercel.app/" target="_blank">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
